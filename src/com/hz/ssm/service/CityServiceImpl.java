@@ -21,7 +21,7 @@ public class CityServiceImpl implements CityService  {
         //添加省份Id值作为查询的条件
         criteria.andProvinceidEqualTo(cityId);
         List<City> cityList = cityMapper.selectByExample(cityExample);
-
+        System.out.println("huahuahuauhuahuhhuhuhua");
         return cityList;
     }
 }
