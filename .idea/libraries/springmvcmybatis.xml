@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="springmvc和mybatis整合">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../id jiao/spring_4/springMvc/参考资料/jar包/springmvc和mybatis整合" />
+      <root url="file://$PROJECT_DIR$/../id jiao/spring_4/springMvc/参考资料/jar包/文件上传" />
+      <root url="file://$PROJECT_DIR$/../id jiao/spring_4/springMvc/参考资料/jar包/springmvc加入json支持" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/../id jiao/spring_4/springMvc/参考资料/jar包/springmvc加入json支持" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../id jiao/spring_4/springMvc/参考资料/jar包/springmvc和mybatis整合" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../id jiao/spring_4/springMvc/参考资料/jar包/文件上传" recursive="false" />
+  </library>
+</component>
